@@ -1,4 +1,4 @@
-# Raspberry Pi Workshops
+# Electronics Workshops
 
 - [Workshop 00](https://github.com/whynotcrybot/rpi-workshop-00) - Control RGB LED over your network
 - [Workshop 01](https://github.com/whynotcrybot/rpi-workshop-01) - Snake game
